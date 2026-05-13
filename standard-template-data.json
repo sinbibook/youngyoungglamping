@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-13T03:17:47.480668048Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-13T04:05:07.321718490Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -81,7 +81,56 @@
         "description": "개별 숯불 바베큐를 즐겨보세요. ",
         "usageGuide": "[개별바베큐]\n- 숯불+그릴\n- 숯+그릴 : 30,000원 (1박기준/현장결제) \n- 숯 준비시간 : 입실 후 ~ 22:00 \n※ 외부 그릴 지참 불가 \n\n[쌈채소 제공]\n- 바베큐 시 펜션 인근 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다. ",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "5c718a8b-8ec6-461c-a0f4-b4a6c912209e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396785-urllxx5w3q.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8d70caed-ffec-4384-8bcb-d0fb79fd7be7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396784-e0o3dcbhr0.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c8023ac3-2224-40d9-ac19-e3cd9e6842ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396766-g2ckbrm5vd.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1853ce75-8dd2-4a5f-88de-a316fac97d4e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864167-ad0ru5i84m.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "db9d3858-63ff-4967-831d-622c16e04f38",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864281-rpy7poun3m.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "079531d4-5c6a-4a5d-bba8-e56486237fab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864279-7tpicjtn12.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "8dc3518f-0bb9-4a86-988e-366ecd579680",
@@ -89,7 +138,96 @@
         "description": "넓은 공용 수영장이 있습니다. ",
         "usageGuide": "[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 7월 1일 ~ 8월 31일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "79d23d6d-7774-41c9-885b-add5587d1f6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397537-ce37ju1o9b.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "46800fc0-410c-47ed-8cde-1ea83a4c93c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397520-m5v3wuf481.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "16b53719-aad2-4dce-a847-fee8379bda07",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397537-gr72p6uudb.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4bffad4a-c0bb-4f2c-808d-16d4c6c88b06",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397536-ih28lm79aa.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "273cb0a4-9782-4b94-a932-e5bbd5a43d73",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397562-5mo041w2ku.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "698d1204-43c6-4d49-b581-3e82caa3b70a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397547-328bwegtn2.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5f62cd01-e1c6-46c0-af9b-5597b32f0ca8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642397550-d2lhcxsu9j.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bd1fb8e4-4dec-4f7d-b374-45e2b62c7b7c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642865338-cthbst848i.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "724d13bb-a86f-4e5e-a8f4-7b17f4c9f91c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642865381-suji75c3lo.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7af55b2d-7926-41bc-a579-3da8b8762d20",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642865372-yp24xu5ds7.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "304cd253-bb0b-4493-b258-d21467029e3f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8dc3518f-0bb9-4a86-988e-366ecd579680/main/1778642865380-nofeehfjtd.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "3028be15-8a1d-4879-ad6f-18cbaf21db81",
@@ -97,7 +235,48 @@
         "description": "애견 동반 가능한 객실이 있습니다. ",
         "usageGuide": "[애견동반]\n- 동반 가능 객실 : 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 동반 비용 : 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 견종 제한 : 9kg 미만까지만 동반가능\n※ 밥그릇, 배변패드 필요 시 사전에 펜션으로 요청",
         "displayOrder": 2,
-        "images": [ ]
+        "images": [
+          {
+            "id": "a7364b33-6a82-4bff-92a5-668493a688b6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3028be15-8a1d-4879-ad6f-18cbaf21db81/main/1778642398297-mvr3r29u56.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "40af80fb-f8c8-4a90-ac16-1470afef5cc2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3028be15-8a1d-4879-ad6f-18cbaf21db81/main/1778642398314-1g0ivg025g.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d44c288d-b056-4485-95d2-5c06dfd1da6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3028be15-8a1d-4879-ad6f-18cbaf21db81/main/1778642398316-7p6j77vp9u.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f85f84db-a855-4e51-88a0-1b24bb1a9b9e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3028be15-8a1d-4879-ad6f-18cbaf21db81/main/1778642398315-zgvbgzc52o.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "26437afe-83d2-42e5-96df-f6839ed92336",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3028be15-8a1d-4879-ad6f-18cbaf21db81/main/1778642398317-ge4ontx6u5.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "7eac4c0b-9c4a-4914-ad43-97e984be6bf0",
@@ -105,7 +284,32 @@
         "description": "객실 앞에서 불멍 가능합니다. ",
         "usageGuide": "[불멍]\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가",
         "displayOrder": 3,
-        "images": [ ]
+        "images": [
+          {
+            "id": "f157fdfe-d982-47ef-ba9d-410792946fcb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7eac4c0b-9c4a-4914-ad43-97e984be6bf0/main/1778642438923-1tx157nxky.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3cf3d894-eac3-4011-a2d4-0a0e82d6d1c0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7eac4c0b-9c4a-4914-ad43-97e984be6bf0/main/1778642438941-njtdcnjnvl.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b46adb8a-1fa5-4628-ba9b-87542fc9cfd9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7eac4c0b-9c4a-4914-ad43-97e984be6bf0/main/1778642438949-utsm7pdfya.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "3eb21506-bf69-4b34-a1e3-14ac1269eda5",
@@ -113,7 +317,72 @@
         "description": "펜션 내 매점이 있어 편리한 여행이 가능합니다. ",
         "usageGuide": "[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)",
         "displayOrder": 4,
-        "images": [ ]
+        "images": [
+          {
+            "id": "710f35b7-1a09-40a6-846d-da93c82a3b83",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439595-hd0jeynrn3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e31d90ae-4116-4d34-9a4e-4b3ef7ee78ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439614-zymnlkxgly.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5b8c6c9c-f26f-4b36-b003-c0e38c704e3e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439612-fbhtaf319t.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1ff07ba4-1067-42e4-95e6-47276f219a43",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439615-cga2m39eas.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4f28b405-0d8a-40a0-b87c-f108ce5edceb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439615-qscndcc6tf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9d142b64-989b-479d-b2ad-629c94d0f870",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439630-oqw8vne75w.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9249b7e1-3a15-4a5b-a07b-8d38d00e0ef2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439647-9zd3tofj9n.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fe13f0fb-e453-4a94-b625-35a7ef0cc5c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3eb21506-bf69-4b34-a1e3-14ac1269eda5/main/1778642439645-w4wkk0b37w.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "e57b53ed-0bca-45a9-94f0-d1d59127e06d",
@@ -121,7 +390,97 @@
         "description": "펜션 정원 조각공원에서 멋진 사진을 남겨보세요. ",
         "usageGuide": "[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. ",
         "displayOrder": 5,
-        "images": [ ]
+        "images": [
+          {
+            "id": "706084e6-04f1-4210-bb3b-5a1b669d6263",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440780-a6ar9lfe5u.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2306f9cf-1852-495d-abba-73408bd18c12",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440781-9c0bdh8f1m.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "05309a2a-b45d-4daa-8b67-8fd1a5253449",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440799-e7xay20wm5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a5062929-fcc0-4914-90e3-cffaaf3caf4c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440800-u1y8wj9uzl.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c5b7983e-d67b-4af3-8c53-163f102796cf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440816-oyaddtme3u.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dca64776-ec12-4458-8c2d-fa64a289d66f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440800-y5mgra9mj1.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "170298ef-3244-4591-863d-2d49eb23de17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e57b53ed-0bca-45a9-94f0-d1d59127e06d/main/1778642440814-uoyr2a0jb6.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "4a76f126-559e-48e0-8168-aa301fef1fe5",
+        "name": "회의실",
+        "description": "펜션 내 회의실이 있습니다. ",
+        "usageGuide": "펜션 내 회의실이 있습니다. \n※ 이용문의는 펜션으로 부탁드립니다. ",
+        "displayOrder": 6,
+        "images": [
+          {
+            "id": "53fb513a-51dd-451c-b0b7-7f7a00998e35",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a76f126-559e-48e0-8168-aa301fef1fe5/main/1778642599955-irrhnr2nph.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "259960cb-b93b-4260-9dc1-2aac7d589a6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a76f126-559e-48e0-8168-aa301fef1fe5/main/1778642599982-6l0r6ecqmw.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b788e0dc-6f8e-4672-8eaa-d9b17c51cfe4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a76f126-559e-48e0-8168-aa301fef1fe5/main/1778642599974-63ri9wp4sm.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -173,8 +532,138 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "1bace90a-e9ad-4e54-83f1-451732cc8dfc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/thumbnail/1778642395116-mxg62lhhsk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "a6f8f12c-7300-4f63-88da-fbd891583c14",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395029-cf4go39p22.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "74c99b06-4518-497c-90d1-09437a7321ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642394963-zx3ypvm580.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9cb9dd3a-c55f-4bda-970b-3ee8ea41777b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395012-btrk2ibn66.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "30fdff9c-fd72-4109-b120-f26c4af97936",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395120-5jpiopr85a.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "13c9c4ba-101a-4737-9b64-26d00af44f4f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395051-pvzxckzqta.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "08d28ccd-b710-4cc0-8363-31a3f9405011",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395017-ny23mrwm2m.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d2077c96-ec29-467f-ba55-6c135e915c14",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395018-bmq0kn4f13.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f75f2643-b0ee-40c5-b4eb-a0916a57bc87",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395053-pgjx079au7.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "34b6caf5-c93c-4f2e-924f-46bd88d3abf5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395069-hhaynz208g.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0f3b5a35-d921-4068-89a8-827812e63704",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395015-d3l9ahdstj.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "edf1342a-0d79-47f0-b309-adee5e884bb6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395114-q2q2y8s0et.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1acc0a1d-0677-4a05-9005-507f7931ac6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395053-7zs4ae4ad3.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "94501be9-ab1a-4563-b403-61dbda2fc04e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395116-4kxr5k40mq.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dede0c79-1efd-4019-b48a-8e1eeb2ffd75",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395054-nn4xnjhqhj.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bbacac40-7bff-4c4c-912a-2a742c3760e0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1310275c-4112-4ef7-a644-4e2f108caaef/exterior/1778642395013-hihsq3qdoy.jpg",
+            "sortOrder": 14,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -185,7 +674,7 @@
       "id": "881b0b7c-353b-4138-bb37-a0892bcf8559",
       "name": "매실1",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -201,7 +690,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -249,7 +738,7 @@
       "id": "5eb46b18-3711-41b1-a2bf-7f1f57159acc",
       "name": "매실2 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -265,7 +754,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -313,7 +802,7 @@
       "id": "85b3c0d6-0338-4107-ba61-8eca002d22ef",
       "name": "매실3 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -329,7 +818,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -377,7 +866,7 @@
       "id": "bcefc264-1aee-4f9d-a925-d2d9a4557776",
       "name": "매실5 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -393,7 +882,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -441,7 +930,7 @@
       "id": "628ad796-0b68-47f7-b1f3-e0751fdecf9b",
       "name": "매실6 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -457,7 +946,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -505,7 +994,7 @@
       "id": "5d6bab9f-ccc7-4021-857e-8c037bf3aa2f",
       "name": "매실7 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -521,7 +1010,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -569,7 +1058,7 @@
       "id": "a5c699d5-9adf-4a02-aabd-fee59e05055b",
       "name": "매실8 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -585,7 +1074,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -633,7 +1122,7 @@
       "id": "b59c7fdb-64c4-4ece-9ee3-deb17c822ae5",
       "name": "매실9",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "매실",
       "size": 66.12,
@@ -649,7 +1138,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -697,7 +1186,7 @@
       "id": "eb059d29-3181-4795-b270-58f46baffcf8",
       "name": "난실1 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "난실",
       "size": 66.12,
@@ -713,7 +1202,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -761,7 +1250,7 @@
       "id": "5d68b83e-cc0a-4040-9d6d-f43782c5d041",
       "name": "난실2 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "난실",
       "size": 66.12,
@@ -777,7 +1266,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -825,7 +1314,7 @@
       "id": "f6691ba9-4654-40d9-92f2-6773892b5f78",
       "name": "난실3 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "난실",
       "size": 66.12,
@@ -841,7 +1330,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -889,7 +1378,7 @@
       "id": "81e94147-c148-4d04-aabc-6da366831dad",
       "name": "난실5 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "난실",
       "size": 66.12,
@@ -905,7 +1394,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -953,7 +1442,7 @@
       "id": "390e67c0-a8bd-4c93-9ddb-67887dc2e40b",
       "name": "난실6 (애견동반)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "난실",
       "size": 66.12,
@@ -969,7 +1458,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1017,7 +1506,7 @@
       "id": "d4c3a27f-f029-4b42-bd72-070446984990",
       "name": "국실1",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "국실",
       "size": 66.12,
@@ -1033,7 +1522,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1081,7 +1570,7 @@
       "id": "02cb5705-4e65-4438-bbfa-ddd4e61c280c",
       "name": "국실2",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "국실",
       "size": 66.12,
@@ -1097,7 +1586,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1145,7 +1634,7 @@
       "id": "6a5f2bd4-6a72-4cc5-a397-59fa855845de",
       "name": "국실3",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "국실",
       "size": 66.12,
@@ -1161,7 +1650,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1209,7 +1698,7 @@
       "id": "d765f975-449f-4abb-a5ad-1654330464dd",
       "name": "국실5",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "국실",
       "size": 66.12,
@@ -1225,7 +1714,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1273,7 +1762,7 @@
       "id": "ecdf232d-c103-4ae4-b88e-b92a6b64f7ff",
       "name": "국실6",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "국실",
       "size": 66.12,
@@ -1289,7 +1778,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1337,7 +1826,7 @@
       "id": "9e207fb8-4a9b-432b-8ade-a490a9730902",
       "name": "죽실1",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1353,7 +1842,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1401,7 +1890,7 @@
       "id": "1449f558-ed0d-4620-88e5-782eecf29782",
       "name": "죽실2",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1417,7 +1906,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1465,7 +1954,7 @@
       "id": "fb3754f2-5119-4a52-bc73-8d599e9d7112",
       "name": "죽실3",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1481,7 +1970,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1529,7 +2018,7 @@
       "id": "67a956ce-9aa9-4799-afa9-bf0fed3cfc4a",
       "name": "죽실5",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1545,7 +2034,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1593,7 +2082,7 @@
       "id": "ade399db-0e2a-480d-b2d6-4b1c50b57b89",
       "name": "죽실6",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1609,7 +2098,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1657,7 +2146,7 @@
       "id": "32b26b1a-1eab-43eb-83b9-4321e9183d65",
       "name": "죽실7",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1673,7 +2162,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1721,7 +2210,7 @@
       "id": "c9f0e2e1-08b7-465f-a754-3d2be0c06806",
       "name": "죽실8",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1737,7 +2226,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1785,7 +2274,7 @@
       "id": "01660dd7-a23a-4fa0-a45c-d28a1944818c",
       "name": "죽실9",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1801,7 +2290,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1849,7 +2338,7 @@
       "id": "4da67c9c-bc52-4019-996b-f0806e31387f",
       "name": "죽실10",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1865,7 +2354,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -1913,7 +2402,7 @@
       "id": "60ce106f-6ec5-4448-b875-c8139cd925fc",
       "name": "죽실11",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
-      "roomInfo": "",
+      "roomInfo": "원룸형, 침대룸(더블침대2)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": "죽실",
       "size": 66.12,
@@ -1929,7 +2418,7 @@
       "bedTypes": [
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "에어컨",
@@ -2239,9 +2728,40 @@
                     "blockId": null
                   }
                 ],
-                "description": " "
+                "description": " 포천의 숲과 나무, 산으로 둘러싸인 자연 속 감성 글램핑 공간\n시원한 수영장과 여유로운 공원에서 편안한 힐링 시간을 즐겨보세요.\n개별 바베큐와 따뜻한 불멍으로 더욱 특별한 여행의 순간을 선물합니다.\n사랑하는 반려견과 함께 머무르며 자연 속 여유를 온전히 느껴보세요."
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " 야외 수영장",
+                  "images": [
+                    {
+                      "id": "d48db27e-66f9-4b69-bb33-a671d15050ee",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a4054f75-14ed-4a9e-8800-a88f20c63a95/main_about/1778645102096-6tkt0qcmz8.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "678350c2-1645-4424-93aa-298b56db29e3"
+                    }
+                  ],
+                  "blockId": "678350c2-1645-4424-93aa-298b56db29e3",
+                  "description": "시원한 야외수영장과 함께 즐기는 여름 물놀이, 자연 속에서 느끼는 여유로운 휴식과 특별한 힐링 공간"
+                },
+                {
+                  "title": "애견동반 글램핑",
+                  "images": [
+                    {
+                      "id": "4d9ea437-7ee2-45ae-914b-834db41ed8a9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a4054f75-14ed-4a9e-8800-a88f20c63a95/main_about/1778645102140-6ycg3sdmly.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f82e48ea-1a85-4ed9-bf0a-c2f2efa2c52f"
+                    }
+                  ],
+                  "blockId": "f82e48ea-1a85-4ed9-bf0a-c2f2efa2c52f",
+                  "description": "사랑하는 반려견과 함께 포천의 자연 속을 마음껏 뛰어놀며, 숲과 산의 여유로운 풍경 속에서 편안한 휴식과 소중한 추억을 함께 만들어보세요."
+                }
+              ]
             }
           ]
         },
