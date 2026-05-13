@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-13T04:05:07.321718490Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-13T04:11:52.667698894Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -2694,7 +2694,7 @@
           "sections": [
             {
               "hero": {
-                "title": "오시는길",
+                "title": "오시는길 ",
                 "images": [
                   {
                     "id": "f39061f3-fc25-44d5-a6f4-b4561aebf50b",
