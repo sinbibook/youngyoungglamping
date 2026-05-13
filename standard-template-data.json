@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-13T03:10:28.119292346Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-13T03:16:03.454150874Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -2112,11 +2112,36 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "포천 영영글램핑",
+                "images": [
+                  {
+                    "id": "311fcaf5-d1a3-4fc5-8a8b-41fcc0dcf27b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a4054f75-14ed-4a9e-8800-a88f20c63a95/index_essence/1778641985070-5ktinxvlk0.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5acf4705-58db-4516-b2ea-a31c698e6174",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a4054f75-14ed-4a9e-8800-a88f20c63a95/index_essence/1778641985098-ss0e8atuxy.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "aaa5c651-c0f7-47b8-8d50-08a9d08ba950",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a4054f75-14ed-4a9e-8800-a88f20c63a95/index_essence/1778641985089-p1i45qnilh.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "포천의 숲과 나무, 산으로 둘러싸인 \n자연 속 감성 글램핑 공간\n시원한 수영장과 여유로운 공원에서 \n편안한 힐링 시간을 즐겨보세요.\n개별 바베큐와 따뜻한 불멍으로 \n더욱 특별한 여행의 순간을 선물합니다.\n사랑하는 반려견과 함께 머무르며 \n자연 속 여유를 온전히 느껴보세요."
               },
               "gallery": {
                 "title": "",
@@ -2180,7 +2205,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "오시는길",
                 "images": [
                   {
                     "id": "f39061f3-fc25-44d5-a6f4-b4561aebf50b",
@@ -2203,7 +2228,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "ea6ecb2b-b33a-4b0a-99a2-2cad1fd8b6b0",
@@ -2214,7 +2239,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "about": [ ]
             }
