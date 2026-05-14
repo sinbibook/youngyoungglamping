@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-05-14T02:30:50.290490456Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-05-14T05:32:25.688413959Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -705,7 +705,8 @@
         "샴푸",
         "린스",
         "바디워시",
-        "글램핑"
+        "글램핑",
+        "냉/난방기"
       ],
       "roomViews": [
         "전망없음"
@@ -2473,9 +2474,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "포천 영영글램핑",
+      "description": "포천의 숲과 나무, 산으로 둘러싸인 자연 속 감성 영영 글램핑 ",
+      "keywords": "포천글램핑,포천힐링,포천여행,포천숙소,포천펜션"
     },
     "socialLinks": {
       "facebook": null,
