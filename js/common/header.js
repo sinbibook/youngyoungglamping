@@ -106,10 +106,10 @@
 
     // Navigation function
     window.navigateTo = function(page, id) {
-        // Close mobile menu if open
-        const mobileMenu = document.getElementById('mobile-menu');
-        if (mobileMenu && mobileMenu.classList.contains('active')) {
-            toggleMobileMenu();
+        // Close header menu if open
+        const headerOpened = document.getElementById('header-opened');
+        if (headerOpened && headerOpened.classList.contains('expanded')) {
+            window.toggleHeaderMenu();
         }
 
         // Navigate to page
@@ -124,6 +124,13 @@
             case 'directions':
                 url = 'directions.html';
                 break;
+            case 'nearby-attractions':
+                url = 'nearby-attractions.html';
+                break;
+            case 'layout-map':
+                url = 'layout-map.html';
+                break;
+            case 'reservation':
             case 'reservation-info':
                 url = 'reservation.html';
                 break;
