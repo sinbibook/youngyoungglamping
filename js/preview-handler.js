@@ -381,7 +381,9 @@ class PreviewHandler {
             'room': 'room.html',
             'facility': 'facility.html',
             'reservation': 'reservation.html',
-            'directions': 'directions.html'
+            'directions': 'directions.html',
+            'nearbyAttractions': 'nearby-attractions.html',
+            'layoutMap': 'layout-map.html'
         };
 
         const targetPage = pageMap[messageData.page];
@@ -440,6 +442,13 @@ class PreviewHandler {
      */
     async renderTemplate(data) {
         const currentPage = this.getCurrentPageType();
+
+        // 현재 데이터 업데이트 (이미 변환된 데이터)
+        this.currentData = data;
+
+        // 페이지 활성화 상태 먼저 확인 (렌더링 전)
+        this.checkPageEnabled();
+
         let mapper = null;
 
         // 현재 페이지에 맞는 매퍼 선택
@@ -472,6 +481,16 @@ class PreviewHandler {
             case 'directions':
                 if (window.DirectionsMapper) {
                     mapper = new DirectionsMapper();
+                }
+                break;
+            case 'nearbyAttractions':
+                if (window.NearbyAttractionsMapper) {
+                    mapper = new NearbyAttractionsMapper();
+                }
+                break;
+            case 'layoutMap':
+                if (window.LayoutMapMapper) {
+                    mapper = new LayoutMapMapper();
                 }
                 break;
             default:
@@ -634,7 +653,7 @@ class PreviewHandler {
         }
 
         // 지원하는 페이지 확인
-        const supportedPages = ['index', 'main', 'room', 'facility', 'reservation', 'directions'];
+        const supportedPages = ['index', 'main', 'room', 'facility', 'reservation', 'directions', 'nearbyAttractions', 'layoutMap'];
         if (!supportedPages.includes(page)) {
             return;
         }
@@ -765,6 +784,39 @@ class PreviewHandler {
                         break;
                 }
             }
+        } else if (page === 'nearbyAttractions') {
+            if (window.NearbyAttractionsMapper) {
+                const mapper = this.createMapper(NearbyAttractionsMapper);
+
+                switch (section) {
+                    case 'hero':
+                        mapper.mapHeroSection();
+                        mapper.mapHeroText();
+                        break;
+                    case 'about':
+                        mapper.mapAttractionsContent();
+                        break;
+                    default:
+                        mapper.mapPage();
+                        break;
+                }
+            }
+        } else if (page === 'layoutMap') {
+            if (window.LayoutMapMapper) {
+                const mapper = this.createMapper(LayoutMapMapper);
+
+                switch (section) {
+                    case 'hero':
+                        mapper.mapHeroSection();
+                        break;
+                    case 'about':
+                        mapper.mapLayoutMapContent();
+                        break;
+                    default:
+                        mapper.mapPage();
+                        break;
+                }
+            }
         }
     }
 
@@ -786,6 +838,28 @@ class PreviewHandler {
 
 
     /**
+     * 중첩된 객체 속성 안전 접근
+     */
+    safeGet(obj, path, defaultValue = null) {
+        return path.split('.').reduce((current, key) => {
+            return current && current[key] !== undefined ? current[key] : defaultValue;
+        }, obj);
+    }
+
+    /**
+     * 페이지 활성화 상태 확인 및 리다이렉트
+     */
+    checkPageEnabled() {
+        const pageName = this.getCurrentPageType();
+        const enabledPath = `homepage.customFields.pages.${pageName}.sections.0.enabled`;
+        const isEnabled = this.safeGet(this.currentData, enabledPath);
+
+        if (isEnabled === false) {
+            window.location.href = '404.html';
+        }
+    }
+
+    /**
      * 현재 페이지 타입 감지
      */
     getCurrentPageType() {
@@ -797,6 +871,8 @@ class PreviewHandler {
         if (path.endsWith('/facility.html')) return 'facility';
         if (path.endsWith('/reservation.html')) return 'reservation';
         if (path.endsWith('/directions.html')) return 'directions';
+        if (path.endsWith('/nearby-attractions.html')) return 'nearbyAttractions';
+        if (path.endsWith('/layout-map.html')) return 'layoutMap';
 
         // 루트 경로 또는 기본값으로 index 처리
         return 'index';
@@ -873,7 +949,9 @@ class PreviewHandler {
             'room': 'RoomMapper',
             'facility': 'FacilityMapper',
             'reservation': 'ReservationMapper',
-            'directions': 'DirectionsMapper'
+            'directions': 'DirectionsMapper',
+            'nearbyAttractions': 'NearbyAttractionsMapper',
+            'layoutMap': 'LayoutMapMapper'
         };
 
         const mapperClass = mapperConfig[currentPage];
@@ -918,6 +996,24 @@ class PreviewHandler {
     }
 
     /**
+     * 404 페이지 표시
+     */
+    show404Page() {
+        const mainContent = document.querySelector('main');
+        if (mainContent) {
+            mainContent.innerHTML = `
+                <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 60vh; padding: 120px 20px 50px; text-align: center;">
+                    <h1 style="font-size: 80px; font-weight: 900; color: #658399; margin-bottom: 20px;">404</h1>
+                    <h2 style="font-size: 32px; font-weight: 700; color: #333; margin-bottom: 15px;">페이지를 찾을 수 없습니다.</h2>
+                    <p style="font-size: 16px; color: #666; margin-bottom: 40px; line-height: 1.8;">
+                        이 페이지는 비활성화되었거나 존재하지 않습니다.
+                    </p>
+                </div>
+            `;
+        }
+    }
+
+    /**
      * 렌더링 완료 신호 전송
      */
     notifyRenderComplete(type) {
@@ -944,6 +1040,8 @@ class PreviewHandler {
         if (path.endsWith('/facility.html')) return 'facility';
         if (path.endsWith('/reservation.html')) return 'reservation';
         if (path.endsWith('/directions.html')) return 'directions';
+        if (path.endsWith('/nearby-attractions.html')) return 'nearbyAttractions';
+        if (path.endsWith('/layout-map.html')) return 'layoutMap';
 
         // 루트 경로 또는 기본값으로 index 처리
         return 'index';

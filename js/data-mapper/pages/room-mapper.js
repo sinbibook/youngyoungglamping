@@ -363,11 +363,18 @@ class RoomMapper extends BaseDataMapper {
             roomCheckout.textContent = room.timeSettings?.checkout || '-';
         }
 
-        // 객실 이용규칙/안내사항 (시스템 데이터)
+        // 객실 이용규칙/안내사항 (시스템 데이터) — 내용 없으면 제목 포함 섹션 미노출
         const roomGuide = this.safeSelect('[data-room-guide]');
         if (roomGuide) {
-            const roomInfo = room.roomInfo || '편안한 휴식 공간';
-            roomGuide.innerHTML = this._formatTextWithLineBreaks(roomInfo);
+            const roomInfo = (room.roomInfo || '').trim();
+            const guideSection = roomGuide.closest('.room-usage-guide');
+            if (roomInfo) {
+                roomGuide.innerHTML = this._formatTextWithLineBreaks(roomInfo);
+                if (guideSection) guideSection.style.display = '';
+            } else {
+                roomGuide.innerHTML = '';
+                if (guideSection) guideSection.style.display = 'none';
+            }
         }
     }
 
