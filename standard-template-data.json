@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-08-10T07:28:55.038502034Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-08-18T02:44:51.304824586Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -20,7 +20,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제\n\n[개별바베큐]\n- 제공 구성: 숯+그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 22:00\n※ 외부 그릴 지참 불가 \n\n[쌈채소 제공]\n- 바베큐 시 펜션 옆 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다.\n\n[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 5월 26일~ 8월 31일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[애견동반]\n- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 9kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수\n\n[불멍]\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)\n\n[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. \n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능\n\n[편의 및 주변 시설]\n- 무료 Wi-Fi\n- 전 객실 금연\n- 펜션 내 회의실\n※ 이용문의는 펜션으로 부탁드립니다. \n\n[축구장]\n- 캠핑장 5분 거리에 축구장 이용 가능\n- 2시간 당 30,000원 \n※ 이용 전 사전 펜션 문의 및 예약 필수\n\n[오시는 길]\n- 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 일동면 수입로 371-1\n\n[주변관광지]\n- 산정호수\n- 백운계곡\n- 명성산\n- 포천허브아일랜드\n- 베어스타운\n- 평강식물원\n- 포천아트밸리\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가요금]\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제\n\n[개별바베큐]\n- 제공 구성: 숯+그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 22:00\n※ 외부 그릴 지참 불가\n\n[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 5월 26일~ 8월 31일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[애견동반]\n- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 9kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수\n\n[불멍]\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)\n\n[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. \n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능\n\n[편의 및 주변 시설]\n- 무료 Wi-Fi\n- 전 객실 금연\n- 펜션 내 회의실\n※ 이용문의는 펜션으로 부탁드립니다. \n\n[축구장]\n- 캠핑장 5분 거리에 축구장 이용 가능\n- 2시간 당 30,000원 \n※ 이용 전 사전 펜션 문의 및 예약 필수\n\n[오시는 길]\n- 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 일동면 수입로 371-1\n\n[주변관광지]\n- 산정호수\n- 백운계곡\n- 명성산\n- 포천허브아일랜드\n- 베어스타운\n- 평강식물원\n- 포천아트밸리\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.",
     "province": "경기도",
     "city": "포천시",
@@ -69,55 +69,55 @@
     },
     "facilities": [
       {
-        "id": "25780663-a2eb-42e7-ba40-b36ec2061bfa",
-        "name": "개별바베큐&쌈채소제공",
-        "description": "개별 숯불 바베큐를 즐겨보세요.",
-        "usageGuide": "[개별바베큐]\n- 숯불+그릴\n- 숯+그릴 : 30,000원 (1박기준/현장결제) \n- 숯 준비시간 : 입실 후 ~ 22:00 \n※ 외부 그릴 지참 불가 \n\n[쌈채소 제공]\n- 바베큐 시 펜션 인근 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다. ",
-        "displayOrder": 0,
+        "id": "406889f0-1a87-4710-b91f-f0ef9b7710a0",
+        "name": "개별바베큐",
+        "description": "- 바베큐 시 펜션 인근 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다. \n✅ 쌈채소는 계절 및 수급 상황에 따라 제공되지 않을 수 있습니다. (2026년 8월부터 제공 불가)",
+        "usageGuide": "- 제공 구성: 숯+그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 22:00\n※ 외부 그릴 지참 불가",
+        "displayOrder": 1,
         "images": [
           {
-            "id": "5c718a8b-8ec6-461c-a0f4-b4a6c912209e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396785-urllxx5w3q.jpg",
+            "id": "a7a233e3-2eca-4b42-90fc-4f4bfc6609de",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071425-pl002jfmxc.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "8d70caed-ffec-4384-8bcb-d0fb79fd7be7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396784-e0o3dcbhr0.jpg",
+            "id": "e898bf12-99c4-4221-a8c3-79571ae39ab5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071611-6l32odsk30.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "c8023ac3-2224-40d9-ac19-e3cd9e6842ea",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642396766-g2ckbrm5vd.jpg",
+            "id": "c26f2681-2404-4987-bef7-9d3fd116cbfc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071424-amy3b730vy.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "1853ce75-8dd2-4a5f-88de-a316fac97d4e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864167-ad0ru5i84m.jpg",
+            "id": "bbf04e59-71a6-4d46-a5d5-0f33fc1054c9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071612-q919apqajh.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "db9d3858-63ff-4967-831d-622c16e04f38",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864281-rpy7poun3m.jpg",
+            "id": "3d7e8a32-a204-4b55-9b1e-628300b65d54",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071423-nhdjsgbhmi.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "079531d4-5c6a-4a5d-bba8-e56486237fab",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/25780663-a2eb-42e7-ba40-b36ec2061bfa/main/1778642864279-7tpicjtn12.jpg",
+            "id": "23b2a175-b4cc-454b-9ed7-bef2cbeb5fd9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/406889f0-1a87-4710-b91f-f0ef9b7710a0/main/1787021071614-nih4jkj0y3.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
@@ -130,7 +130,7 @@
         "name": "공용수영장&족욕장",
         "description": "넓은 공용 수영장이 있습니다.",
         "usageGuide": "[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 5월 26일~ 8월 31일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "79d23d6d-7774-41c9-885b-add5587d1f6c",
@@ -227,7 +227,7 @@
         "name": "애견동반",
         "description": "애견 동반 가능한 객실이 있습니다.",
         "usageGuide": "- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 9kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "a7364b33-6a82-4bff-92a5-668493a688b6",
@@ -276,7 +276,7 @@
         "name": "불멍",
         "description": "객실 앞에서 불멍 가능합니다.",
         "usageGuide": "- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "f157fdfe-d982-47ef-ba9d-410792946fcb",
@@ -309,7 +309,7 @@
         "name": "매점",
         "description": "펜션 내 매점이 있어 편리한 여행이 가능합니다.",
         "usageGuide": "[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "710f35b7-1a09-40a6-846d-da93c82a3b83",
@@ -382,7 +382,7 @@
         "name": "조각공원",
         "description": "펜션 정원 조각공원에서 멋진 사진을 남겨보세요.",
         "usageGuide": "[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. ",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "images": [
           {
             "id": "706084e6-04f1-4210-bb3b-5a1b669d6263",
@@ -447,7 +447,7 @@
         "name": "회의실",
         "description": "펜션 내 회의실이 있습니다.",
         "usageGuide": "펜션 내 회의실이 있습니다. \n※ 이용문의는 펜션으로 부탁드립니다. ",
-        "displayOrder": 6,
+        "displayOrder": 7,
         "images": [
           {
             "id": "53fb513a-51dd-451c-b0b7-7f7a00998e35",
@@ -535,7 +535,7 @@
           {
             "id": "d1902562-54ec-40f6-8bcd-c40fdef9c3af",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/3qveCOw2jlNU.jpg",
-            "sortOrder": 6,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -545,7 +545,7 @@
           {
             "id": "09772c9a-26f7-4fa9-a273-c0e8c00ecef0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/aG4LXuHxDbg2.jpg",
-            "sortOrder": 7,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -553,7 +553,7 @@
           {
             "id": "1a04db6f-8027-4752-90c3-e4e8092304c2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/w4lYs8o5MuUk.jpg",
-            "sortOrder": 8,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -561,7 +561,7 @@
           {
             "id": "083a64e6-2927-4d72-9d2f-6c69110f99d4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/VafvgCFdONcb.jpg",
-            "sortOrder": 9,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -569,7 +569,7 @@
           {
             "id": "5c28e8ce-e5c1-4733-a2d6-7d77bd4d7e17",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/PVI8rX4MGHgE.jpg",
-            "sortOrder": 10,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -577,7 +577,7 @@
           {
             "id": "1835f4db-4b4f-4b41-ab98-ffcd07af7dbf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/CtAheLNd6znp.jpg",
-            "sortOrder": 11,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -585,7 +585,7 @@
           {
             "id": "9bf033e8-c5eb-4f32-a76f-1fe6f74e5c16",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/r9tkugeUEqJp.jpg",
-            "sortOrder": 12,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -593,7 +593,7 @@
           {
             "id": "2d20b0a6-8a11-4ede-b1c0-f6d09773dcb4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/uZfgWAnrFl0j.jpg",
-            "sortOrder": 13,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -601,7 +601,7 @@
           {
             "id": "cf1964b5-cc4e-4a5f-b4eb-0fe9ce6114e3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/XkIZYNhqv8sB.jpg",
-            "sortOrder": 14,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -609,7 +609,7 @@
           {
             "id": "f1a25bd9-96cd-40f2-b84c-2fbd49240a1f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/k7SKYZmgGxPR.jpg",
-            "sortOrder": 15,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -617,7 +617,7 @@
           {
             "id": "4d89538f-71ff-4109-adf4-5fc2ccf7fa30",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/KsEQ8mcloIxR.jpg",
-            "sortOrder": 16,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
