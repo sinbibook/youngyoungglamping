@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-08-20T08:20:41.675573442Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-09-08T08:23:35.467846308Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1310275c-4112-4ef7-a644-4e2f108caaef",
     "homepageId": "a4054f75-14ed-4a9e-8800-a88f20c63a95"
@@ -15,12 +15,14 @@
     "address": "경기 포천시 일동면 수입로 371-1 영영글램핑",
     "latitude": 37.9966276047469,
     "longitude": 127.311622414939,
-    "contactPhone": "010-7388-7378",
+    "contactPhone": [
+      "010-7388-7378"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제\n\n[개별바베큐]\n- 제공 구성: 숯+그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 22:00\n※ 외부 그릴 지참 불가 \n\n[쌈채소 제공(2026년 8월부터 제공불가)]\n- 바베큐 시 펜션 인근 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다. \n※ 쌈채소는 계절 및 수급 상황에 따라 제공되지 않을 수 있습니다. (2026년 8월부터 제공 불가)\n\n[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 5월 26일~ 9월 30일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[애견동반]\n- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 9kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수\n\n[불멍]\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)\n\n[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. \n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능\n\n[편의 및 주변 시설]\n- 무료 Wi-Fi\n- 전 객실 금연\n- 펜션 내 회의실\n※ 이용문의는 펜션으로 부탁드립니다. \n\n[축구장]\n- 캠핑장 5분 거리에 축구장 이용 가능\n- 2시간 당 30,000원 \n※ 이용 전 사전 펜션 문의 및 예약 필수\n\n[오시는 길]\n- 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 일동면 수입로 371-1\n\n[주변관광지]\n- 산정호수\n- 백운계곡\n- 명성산\n- 포천허브아일랜드\n- 베어스타운\n- 평강식물원\n- 포천아트밸리\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 인원추가 : 1인 20,000원 / 24개월 미만 영유아 무료\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제\n\n[개별바베큐]\n- 제공 구성: 숯+그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 22:00\n※ 외부 그릴 지참 불가 \n\n[쌈채소 제공(2026년 8월부터 제공불가)]\n- 바베큐 시 펜션 인근 관광농원에서 직접 기른 쌈채소를 무료로 제공해드립니다. \n※ 쌈채소는 계절 및 수급 상황에 따라 제공되지 않을 수 있습니다. (2026년 8월부터 제공 불가)\n\n[공용수영장]\n- 운영 계절: 하절기\n- 운영 기간: 26년 5월 26일~ 9월 30일\n- 온도 : 미온수 (22~25℃)\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 19:00\n- 이용 복장: 수영복, 래쉬가드\n※ 탈의실 있음 \n※ 수영장 이용 시 어린이는 반드시 부모 동반\n\n[애견동반]\n- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 5kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수\n\n[불멍]\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 장작+집게 제공\n- 개인 불멍 용품(화롯대, 연료 등) 지참: 불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n[매점]\n- 펜션 내 매점이 있습니다. (라면, 즉석밥 등 판매)\n\n[조각공원]\n- 펜션 앞 조각공원에서 멋진 사진을 남겨보세요. \n\n[족욕장]\n- 수영장 옆 족욕장 이용 가능\n\n[편의 및 주변 시설]\n- 무료 Wi-Fi\n- 전 객실 금연\n- 펜션 내 회의실\n※ 이용문의는 펜션으로 부탁드립니다. \n\n[축구장]\n- 캠핑장 5분 거리에 축구장 이용 가능\n- 2시간 당 30,000원 \n※ 이용 전 사전 펜션 문의 및 예약 필수\n\n[오시는 길]\n- 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 일동면 수입로 371-1\n\n[주변관광지]\n- 산정호수\n- 백운계곡\n- 명성산\n- 포천허브아일랜드\n- 베어스타운\n- 평강식물원\n- 포천아트밸리\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 지나친 음주 및 고성방가는 삼가 주시기 바랍니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.",
     "province": "경기도",
     "city": "포천시",
@@ -225,7 +227,7 @@
         "id": "3028be15-8a1d-4879-ad6f-18cbaf21db81",
         "name": "애견동반",
         "description": "애견 동반 가능한 객실이 있습니다.",
-        "usageGuide": "- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 9kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수",
+        "usageGuide": "- 이용 객실: 매실 2~8, 난실1~6 (이외 객실 애견동반 불가)\n- 이용 요금: 1마리 동반 무료, 2마리 이상 시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 5kg 미만까지만 동반가능\n- 비품: 밥그릇, 배변패드 등 숙소에서 제공하지 않으니 개인 지참 필수",
         "displayOrder": 3,
         "images": [
           {
@@ -532,9 +534,9 @@
       {
         "thumbnail": [
           {
-            "id": "d1902562-54ec-40f6-8bcd-c40fdef9c3af",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/3qveCOw2jlNU.jpg",
-            "sortOrder": 6,
+            "id": "2d20b0a6-8a11-4ede-b1c0-f6d09773dcb4",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/uZfgWAnrFl0j.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -544,15 +546,7 @@
           {
             "id": "09772c9a-26f7-4fa9-a273-c0e8c00ecef0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/aG4LXuHxDbg2.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "1a04db6f-8027-4752-90c3-e4e8092304c2",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/w4lYs8o5MuUk.jpg",
-            "sortOrder": 8,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -560,39 +554,7 @@
           {
             "id": "083a64e6-2927-4d72-9d2f-6c69110f99d4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/VafvgCFdONcb.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "5c28e8ce-e5c1-4733-a2d6-7d77bd4d7e17",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/PVI8rX4MGHgE.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "1835f4db-4b4f-4b41-ab98-ffcd07af7dbf",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/CtAheLNd6znp.jpg",
-            "sortOrder": 11,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "9bf033e8-c5eb-4f32-a76f-1fe6f74e5c16",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/r9tkugeUEqJp.jpg",
-            "sortOrder": 12,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "2d20b0a6-8a11-4ede-b1c0-f6d09773dcb4",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/uZfgWAnrFl0j.jpg",
-            "sortOrder": 13,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -600,7 +562,47 @@
           {
             "id": "cf1964b5-cc4e-4a5f-b4eb-0fe9ce6114e3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/XkIZYNhqv8sB.jpg",
-            "sortOrder": 14,
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d1902562-54ec-40f6-8bcd-c40fdef9c3af",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/3qveCOw2jlNU.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1a04db6f-8027-4752-90c3-e4e8092304c2",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/w4lYs8o5MuUk.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5c28e8ce-e5c1-4733-a2d6-7d77bd4d7e17",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/PVI8rX4MGHgE.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1835f4db-4b4f-4b41-ab98-ffcd07af7dbf",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/CtAheLNd6znp.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9bf033e8-c5eb-4f32-a76f-1fe6f74e5c16",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/r9tkugeUEqJp.jpg",
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -608,7 +610,7 @@
           {
             "id": "f1a25bd9-96cd-40f2-b84c-2fbd49240a1f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/k7SKYZmgGxPR.jpg",
-            "sortOrder": 15,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -616,7 +618,7 @@
           {
             "id": "4d89538f-71ff-4109-adf4-5fc2ccf7fa30",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/13/KsEQ8mcloIxR.jpg",
-            "sortOrder": 16,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1842,7 +1844,7 @@
         {
           "thumbnail": [
             {
-              "id": "61ed9665-6c20-4b82-be97-7a7ef2c6e0a3",
+              "id": "94cefec3-d70d-46db-83ff-47f07acce6bc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/5pkvJtN2M6yj.jpg",
               "sortOrder": 1,
               "description": "",
@@ -1852,7 +1854,7 @@
           ],
           "interior": [
             {
-              "id": "b121bfe7-c375-41d6-b5ea-8f5be3dea301",
+              "id": "d42f9995-0706-4ad8-b0b9-5921b3e00c9b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/rZ6wfKSoRmMV.jpg",
               "sortOrder": 2,
               "description": "",
@@ -1860,7 +1862,7 @@
               "blockId": null
             },
             {
-              "id": "c158800a-3c15-4267-b907-0bb88cb3e5dc",
+              "id": "d3e7d002-b2a6-42e2-9312-a4dccdc78139",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/ROy7tGx6rlID.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1868,7 +1870,7 @@
               "blockId": null
             },
             {
-              "id": "bdee6aac-675d-4138-bba2-bb2ad4ac9774",
+              "id": "8176ccca-1fe3-434d-8174-e32be0ae5974",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/MAtgoGwhzyL2.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1876,7 +1878,7 @@
               "blockId": null
             },
             {
-              "id": "b0f1674d-d3b2-4c15-b70c-7a22b9f4c971",
+              "id": "a83c9958-d6ce-4122-b8d9-773cf2ad212e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/57FqE8oW9xBi.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1884,7 +1886,7 @@
               "blockId": null
             },
             {
-              "id": "670928ac-7cc4-46df-9210-440b75b9d0c0",
+              "id": "7ec77a35-94d3-4bdc-b45a-534186a694e1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/y5DdhVeQf0gB.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1892,7 +1894,7 @@
               "blockId": null
             },
             {
-              "id": "44aeeb3c-c1e6-4d09-97df-650ed5405953",
+              "id": "d16dbed7-f04f-4a5a-9ed4-fc2944e5bf0e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/msnxMCh92kQ3.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1900,7 +1902,7 @@
               "blockId": null
             },
             {
-              "id": "efe73d1d-9e42-41ee-9530-871bcf8cb54f",
+              "id": "a85648c3-cb89-44dc-b461-2c2322fa7fa4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/13/NEhVAT9UkOC1.jpg",
               "sortOrder": 8,
               "description": "",
